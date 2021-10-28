@@ -1,0 +1,5 @@
+const DEFAULT_ROWS = 5;
+const DEFAULT_COLUMS = 5;
+const WINNER_POS = 25;
+
+module.exports = { DEFAULT_COLUMS, DEFAULT_ROWS, WINNER_POS };
